@@ -66,10 +66,6 @@ click('//a[contains(@class, "default")]')
 #Selecionando Carteirinha
 click('//a[normalize-space()="Comprovante de Dados Acadêmicos"]')
 
-     
-     
-     
-     
 
 #Encerra o navegador
 input("Pressione Enter para fechar...")
